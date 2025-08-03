@@ -1,1 +1,1 @@
-Merge clash config
+Merge clash config.
